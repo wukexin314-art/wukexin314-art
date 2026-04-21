@@ -4,9 +4,6 @@
 
 # 🌸 Hi there, I'm Kexin Wu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&pause=1000&color=F2A7C0&center=true&vCenter=true&width=700&lines=Turning+data+into+insight+%F0%9F%93%8A;M.S.+in+Statistics+at+Georgia+Tech+%F0%9F%8E%93;Interested+in+Data+Science%2C+ML+%26+Forecasting+%F0%9F%92%97" alt="Typing SVG" />
-
-<br/>
 
 <p>
   <a href="https://github.com/wukexin314-art">
@@ -126,7 +123,7 @@ A forecasting and nowcasting project designed to estimate recent dengue trends u
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wukexin314-art&theme=flat&no-frame=true&no-bg=true&margin-w=12&title=Stars,Followers,Repositories,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wukexin314-art" />
 </p>
 
 ---
