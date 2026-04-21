@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:f8bfd4,100:f6a6c1&height=220&section=header&text=Kexin%20Wu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20@%20Georgia%20Tech%20%7C%20Data%20Science%20%7C%20Forecasting&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:f8bfd4,100:f6a6c1&height=220&section=header&text=Cathie%20Wu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Statistics%20@%20Georgia%20Tech%20%7C%20Data%20Science%20%7C%20Forecasting&descAlignY=58&descSize=18" />
 
-# 🌸 Hi there, I'm Kexin Wu
+# 🌸 Hi there, I'm Cathie Wu
 
 
 <p>
