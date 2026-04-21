@@ -118,12 +118,14 @@ A forecasting and nowcasting project designed to estimate recent dengue trends u
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wukexin314-art&show_icons=true&hide_border=true&title_color=EFA3BF&icon_color=EFA3BF&text_color=6b4b57&bg_color=fff7fa" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukexin314-art&layout=compact&hide_border=true&title_color=EFA3BF&text_color=6b4b57&bg_color=fff7fa" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wukexin314-art" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=wukexin314-art&show_icons=true&hide_border=true&hide=prs,issues&hide_rank=true&include_all_commits=true&title_color=EFA3BF&icon_color=EFA3BF&text_color=6b4b57&bg_color=fff7fa"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wukexin314-art&layout=compact&hide_border=true&title_color=EFA3BF&text_color=6b4b57&bg_color=fff7fa"
+  />
 </p>
 
 ---
